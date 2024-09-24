@@ -18,4 +18,4 @@ DB : MariaDB
 서버 만들기 부터 ~ 프론트 까지 
 
 
-참조 유튜부 : https://www.youtube.com/watch?v=9trX84S_ghc
+참조 유튜브 : https://www.youtube.com/watch?v=9trX84S_ghc
