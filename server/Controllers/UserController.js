@@ -20,7 +20,7 @@ const registerUser = asyncHandler(async(req,res)=>{
             image,
         });
 
-    }catch (error){
+    }catch (error){ 
 
     }
 })
